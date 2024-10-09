@@ -13,14 +13,14 @@
 <h5 id="歌曲"><a href="#歌曲" class="headerlink" title="歌曲"></a>歌曲</h5><p>在网页左下角有我编辑网页时听的歌曲，不定期更新，默认关闭。如果有你想听的歌曲可以在<strong>我的歌单</strong>页面下评论</p>
 ]]></content>
       <categories>
-        <category>Web从入门到入土</category>
+        <category>计算机从入门到入土</category>
       </categories>
       <tags>
         <tag>帮助</tag>
       </tags>
   </entry>
   <entry>
-    <title>【MC】莺系列整合包食用指南</title>
+    <title>莺系列整合包食用指南</title>
     <url>/2024/09/29/%E3%80%90MC%E3%80%91%E8%8E%BA%E7%B3%BB%E5%88%97%E6%95%B4%E5%90%88%E5%8C%85%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<h2 id="下载整合包"><a href="#下载整合包" class="headerlink" title="下载整合包"></a>下载整合包</h2><blockquote>
 <p>在下载之前，你需要知道：整合包的命名极其统一以便于理解，因此选择一个符合自己需求的整合包极其重要。</p>
@@ -72,9 +72,10 @@
 <h3 id="2-下载链接"><a href="#2-下载链接" class="headerlink" title="2.下载链接"></a>2.下载链接</h3><h5 id="·-频道下载"><a href="#·-频道下载" class="headerlink" title="· 频道下载"></a>· 频道下载</h5><p>频道会持续上传当前最新MC版本的最新整合包，有需求时会上传其他版本的文件。加入频道<a class="link"   href="https://pd.qq.com/s/fq416q5oo"  title="自由武装游击队频道加入链接">点此</a>。</p>
 <h5 id="·-网盘下载"><a href="#·-网盘下载" class="headerlink" title="· 网盘下载"></a>· 网盘下载</h5><p>网盘拥有所有的整合包资源：</p>
 <ul>
-<li>蓝奏云——<a href="localhost" title="蓝奏云链接">点此下载</a>：超过100Mb的文件需要分段解压，站内教程<a href="localhost" title="分段解压教程">点此</a></li>
-<li>阿里云盘——<a href="localhost" title="阿里云链接">点此下载</a></li>
-<li>百度网盘——<a href="loaclhost" title="百度云链接">点此下载</a>：下载慢，SVIP推荐</li>
+<li>蓝奏云——<a class="link"   href="https://wled.lanzouv.com/b02eq0oah"  title="蓝奏云链接">点此下载（密码：banying）</a>：超过100Mb的文件需要分段解压，站内教程<a href="https://www.wled.top/2024/09/30/%E5%88%86%E5%8D%B7%E5%8E%8B%E7%BC%A9%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%8E%8B%E6%95%99%E7%A8%8B/" title="分段解压教程">点此</a></li>
+<li>百度网盘——<a class="link"   href="https://pan.baidu.com/s/1P4udptSJYpDds812S8grow?pwd=wled"  title="百度云链接">点此下载</a>：下载慢，SVIP推荐</li>
+<li>夸克网盘——<a class="link"   href="https://pan.quark.cn/s/a6e41fc480dd"  title="夸克云链接">点此下载（提取码：T4Yq）</a></li>
+<li>天翼云盘——<a class="link"   href="https://cloud.189.cn/web/share?code=uimqmamYF3Un"  title="天翼云链接">点此下载（访问码：ctj7）</a></li>
 </ul>
 <h5 id="·-留言下载"><a href="#·-留言下载" class="headerlink" title="· 留言下载"></a>· 留言下载</h5><p>如果上述链接都无法下载，你可以在评论区留下你的邮箱以及你需要的整合包版本，资源将<del>随缘</del>发送到你的邮箱。</p>
 <hr>
@@ -82,16 +83,20 @@
 <p>默认你已下载好了符合版本需求的Java</p>
 <p>以下为不完全的版本需求对应的Java下载链接：</p>
 <blockquote>
-<p>≤1.16.X的版本——<a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html" >Java 16</a></p>
+<p>≤1.16.X的版本</p>
+<p><a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html" >Java 16</a></p>
 </blockquote>
 <blockquote>
-<p>1.17.X-1.19.X——<a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html" >Java 17</a></p>
+<p>1.17.X-1.19.X</p>
+<p><a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html" >Java 17</a></p>
 </blockquote>
 <blockquote>
-<p>1.20-1.20.4——<a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html" >Java 20</a></p>
+<p>1.20-1.20.4</p>
+<p><a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html" >Java 20</a></p>
 </blockquote>
 <blockquote>
-<p>＞1.20.4的版本——<a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" >Java 21</a></p>
+<p>＞1.20.4的版本</p>
+<p><a class="link"   href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" >Java 21</a></p>
 </blockquote>
 <p>为了照顾早期无法使用高版本Java的电脑，<a class="link"   href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html" >此处提供Java 8的下载链接</a>，但是高版本的MC几乎不支持Java 8运行。</p>
 </blockquote>
@@ -141,6 +146,49 @@
 ]]></content>
       <categories>
         <category>MC</category>
+      </categories>
+      <tags>
+        <tag>帮助</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>分卷压缩以及解压教程</title>
+    <url>/2024/09/30/%E5%88%86%E5%8D%B7%E5%8E%8B%E7%BC%A9%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%8E%8B%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<blockquote>
+<p>本教程以<a class="link"   href="https://www.7-zip.org/" >7-zip</a>为例，其他压缩软件原理相同。</p>
+</blockquote>
+<h1 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h1><ul>
+<li>右键框选所有需要压缩的文件</li>
+<li>选择<em>7-zip-添加到压缩包</em></li>
+<li>在选择”分卷大小、字节”中按需选择，随后压缩即可</li>
+</ul>
+<hr>
+<h1 id="解压"><a href="#解压" class="headerlink" title="解压"></a>解压</h1><ul>
+<li>先将所有分卷文件全部重命名为统一名字</li>
+<li>在所有文件的后缀的后面加上”.”和三位编号</li>
+<li>右键001分卷，选择<em>提取到&#x2F;xxx文件夹</em></li>
+<li>例如：</li>
+<li>test.zip</li>
+<li>test2.zip</li>
+<li>test3.zip</li>
+<li>…</li>
+</ul>
+<p> 改为</p>
+<ul>
+<li><p>test.zip.001</p>
+</li>
+<li><p>test.zip.002</p>
+</li>
+<li><p>test.zip.003</p>
+</li>
+<li><p>test.zip.xxx</p>
+</li>
+<li><p><strong>注意：</strong>务必将所有的分卷文件准备在同一文件夹内，分卷不能有缺失</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>计算机从入门到入土</category>
       </categories>
       <tags>
         <tag>帮助</tag>
